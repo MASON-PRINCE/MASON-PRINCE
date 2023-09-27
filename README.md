@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mason
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning e-Commerce Engineering with Law 
+- 🌱 I’m currently learning Data science & Artificial intelligence
 - 💞️ I’m looking to collaborate on AI
 - 📫 Wechat ID MasonOwO 
 
