@@ -8,7 +8,6 @@
 - 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
 - ⚡ 我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
 
-
 ### 🛠️ 技术栈
 
 <div align="center">
@@ -21,14 +20,9 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
-
 ### 🐍 贡献图
 
 ![贡献统计](https://raw.githubusercontent.com/MASON-PRINCE/MASON-PRINCE/refs/heads/output/github-contribution-grid-snake.svg)
-
-### 📈 活动图表
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MASON-PRINCE&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ### 🤝 联系方式
 
@@ -40,16 +34,12 @@
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<br/>
 
 ### 💭 座右铭
-
 <div align="center">
   <i>「Carpe Diem.」</i>
 </div>
 
-<br/>
-<!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
 </div>
