@@ -22,13 +22,6 @@
 </div>
 
 
-### 📊 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MASON-PRINCE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASON-PRINCE&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
-</div>
-
 ### 🐍 贡献图
 
 ![贡献统计](https://raw.githubusercontent.com/MASON-PRINCE/MASON-PRINCE/refs/heads/output/github-contribution-grid-snake.svg)
@@ -36,10 +29,6 @@
 ### 📈 活动图表
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASON-PRINCE&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
-### ⌛ 编码时间统计
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MASON-PRINCE&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
 
 ### 🤝 联系方式
 
