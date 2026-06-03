@@ -1,4 +1,6 @@
+<div style="float:right; margin-left:20px; margin-bottom:20px;">
 <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</div>
 
 ### 👨‍💻 关于我
 
@@ -28,10 +30,10 @@
 
 <div align="center">
   <a href="https://github.com/MASON-PRINCE">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:masonqaq@gmail.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
