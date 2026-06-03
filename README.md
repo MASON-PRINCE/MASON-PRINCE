@@ -1,4 +1,4 @@
-<div style="float:right; margin-left:20px; margin-bottom:20px;">
+<div style="float:right; margin-left:20px; margin-bottom:50px;">
 <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 </div>
 
